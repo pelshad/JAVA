@@ -18,23 +18,27 @@ public class reEaxm09 {
 			System.out.println("-------------------------------------");
 			System.out.print("선택>");
 			selNum = scan.nextInt();
+			
 			if(selNum == 1) {
 				System.out.print("학생수 > ");
 				stuNum = scan.nextInt();
 				selNum = 0;
 				exam = new int[stuNum];
 			}
+			
 			if(selNum == 2) {
 				for(int i = 0; i<exam.length ; i++) {
 					inExam = scan.nextInt();
 					exam[i] = inExam;
 				}
 			}
+			
 			if(selNum == 3) {
 				for(int i = 0; i<exam.length; i++) {
 					System.out.println(exam[i]);
 				}
 			}
+			
 			if(selNum == 4) {
 				for(int i =0; i<exam.length; i++) {
 					sumNum += exam[i];
@@ -44,6 +48,7 @@ public class reEaxm09 {
 				avgNum = (double)sumNum/count;
 				System.out.println("평균 점수 : " + avgNum);
 			}
+			
 			if(selNum == 5) {
 				break;
 			}
