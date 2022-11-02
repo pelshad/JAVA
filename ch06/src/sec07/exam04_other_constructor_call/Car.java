@@ -37,7 +37,7 @@ public class Car {
 		// 주의 this() 생성자 호출 코드 앞에 다른 코드가 있으면 오류 발생
 		// System.out.println("실행"); 주석 풀면 에러 터짐
 		this(model, "민트", 120);
-		System.out.println("실행");
+		//System.out.println("실행");
 	}
 	
 	//2
