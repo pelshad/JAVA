@@ -1,4 +1,5 @@
 package sec12.exam01_package_compile;
+//패키지명은 영어 소문자를 사용하는 것이 관례
 
 public class Application {
 
