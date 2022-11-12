@@ -1,5 +1,6 @@
 package sec12.exam01_package_compile;
-//패키지명은 영어 소문자를 사용하는 것이 관례
+//패키지명은 영어 소문자를 사용하고 스네이크케이스 기법으로 작성
+//패키지 구성 :: 상위패키지.패키지.패키지. ... .클래스로 구성된다.
 
 public class Application {
 
