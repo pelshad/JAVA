@@ -26,4 +26,6 @@ public class num2563 {
 		System.out.println(maxNum);
 		System.out.println(maxIdx);
 	}
+	
+		
 }
