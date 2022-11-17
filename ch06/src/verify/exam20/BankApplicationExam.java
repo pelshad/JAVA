@@ -75,7 +75,7 @@ public class BankApplicationExam {
 	
 	//계좌번호 찾는 메소드
 	private static BankApplication findAccounnt(String ano) {
-		BankApplication account = null; 
+		BankApplication account = null;
 		for(int i = 0; i<accountArray.length;i++) {
 			if(accountArray[i] != null) {
 				String dbAno = accountArray[i].getAno();
