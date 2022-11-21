@@ -18,5 +18,6 @@ public class Tire {
 		}
 		System.out.println("*** " + location + "Tire 수명이 다되었습니다 ***");
 		return false;
+		//
 	}
 }
