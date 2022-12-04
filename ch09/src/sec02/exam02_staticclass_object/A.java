@@ -1,4 +1,4 @@
-package sec02.exam02_staticclass_object.copy;
+package sec02.exam02_staticclass_object;
 
 public class A {
 	A(){
