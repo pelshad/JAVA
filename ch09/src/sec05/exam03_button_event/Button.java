@@ -13,7 +13,7 @@ public class Button {
 		listener.onClick();
 	}
 	
-	//중첩 인터페이스
+	//중첩 인터페이스//
 	interface OnClickListener{
 		void onClick();
 	}
