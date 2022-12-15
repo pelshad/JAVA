@@ -18,8 +18,7 @@ public class Account {
 		if(balance<money) {
 			//잔고 발생시 예외 발생
 			//메세지 출력
-			throw new BalanceInsufficientException("잔고부족 : " + (money-balance)
-					+ " 모자람");
+			throw new BalanceInsufficientException();
 		}
 		balance -= money;
 	}
