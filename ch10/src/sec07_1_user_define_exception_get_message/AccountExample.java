@@ -23,7 +23,7 @@ public class AccountExample {
 			System.out.println(e.toString());
 			
 			System.out.println();
-			//발생한 예외 로그를 모두 출력(개발할 때 많이 사용함)
+			//발생한 예외 로그를 모두 출력(개발할 때 많이 사용함)//
 			e.printStackTrace();
 		}
 
