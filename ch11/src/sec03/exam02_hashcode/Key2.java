@@ -25,5 +25,6 @@ public class Key2 {
 	public int hashCode() {
 		System.out.println("hashCode()");
 		return number;
+		//필드가 문자열인 경우, 문자열.hashCode();
 	}
 }
