@@ -1,4 +1,4 @@
-package sec04.exam01_objects;
+package sec04.exam01_objects_compare;
 
 import java.util.Comparator;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package sec04.exam01_objects;
+package sec04.exam01_objects_compare;
 
 public class Compare {
 	/*
