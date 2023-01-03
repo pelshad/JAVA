@@ -1,7 +1,7 @@
 package sec05.exam01_exit;
 
 public class ExitIntro {
-	/*//
+	/*
 		프로그램 종료(exit())
 		 1. 강제적으로 JVM을 종료
 		  1) int 매개값을 지정하도록 되어 있는데, 이 값을 종료 상태값이라고 한다.
