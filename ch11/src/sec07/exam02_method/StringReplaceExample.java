@@ -9,6 +9,6 @@ public class StringReplaceExample {
 		String newStr = oldStr.replace("ÀÚ¹Ù", "JAVA");
 		System.out.println(oldStr);
 		System.out.println(newStr);
-	}
+	} 
 
 }
