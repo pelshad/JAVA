@@ -27,7 +27,7 @@ public class StringBuilderExample {
 		int length = sb.length();
 		System.out.println(length);
 		
-		//builder∏¶ String¿∏∑Œ πŸ≤ﬁ//
+		//builder∏¶ String¿∏∑Œ πŸ≤ﬁ
 		String result = sb.toString();
 		System.out.println(result);
 	}
